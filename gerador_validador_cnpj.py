@@ -1,6 +1,6 @@
 """""
 Gerador e validador de CNPJs
-- É necessário utilizar o módulo cnpj.py
+- Este projeto utiliza módulo autoral cnpj.py
 """""
 import cnpj
 
